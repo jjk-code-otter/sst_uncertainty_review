@@ -1,4 +1,4 @@
-# et-ncmp.github.io
+# Sea-surface temperature uncertainty review
 
 ## Review of uncertainty in in situ sea-surface temperature measurements
 
